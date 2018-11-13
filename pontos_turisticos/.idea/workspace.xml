@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389c991a-643d-43be-bc42-9fb2c6264946" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/atracoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comentarios/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/comentarios/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comentarios/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/comentarios/api/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaliacoes/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/avaliacoes/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pontos_turisticos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,30 +28,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="48" />
+          <entry key="py" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="48" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="3050" />
+          <entry key="py" value="3387" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="3050" />
+          <entry key="Python" value="3387" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.53943217">
+    <splitter split-orientation="horizontal" split-proportion="0.6439394">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
@@ -67,10 +66,24 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pontos_turisticos/urls.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="140">
-                  <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+                <state relative-caret-position="249">
+                  <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
                   <folding>
                     <element signature="e#641#673#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/avaliacoes/api/serializers.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                  <folding>
+                    <element signature="e#0#54#0" expanded="true" />
+                    <marker date="1542134129838" expanded="true" signature="155:160" ph="..." />
+                    <marker date="1542134129838" expanded="true" signature="155:244" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -89,7 +102,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/comentarios/api/serializers.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="119">
@@ -151,28 +164,6 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/atracoes/models.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/core/models.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="301">
-                  <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#0#28#0" expanded="true" />
-                    <marker date="1542124893551" expanded="true" signature="250:255" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-first>
       <split-second>
@@ -192,13 +183,13 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/comentarios/models.py">
+            <entry file="file://$PROJECT_DIR$/avaliacoes/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+                <state relative-caret-position="153">
+                  <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
                   <folding>
-                    <element signature="e#0#43#0" expanded="true" />
-                    <marker date="1541792350679" expanded="true" signature="106:111" ph="..." />
+                    <element signature="e#0#44#0" expanded="true" />
+                    <marker date="1541793148020" expanded="true" signature="134:139" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -240,8 +231,10 @@
         <option value="$PROJECT_DIR$/enderecos/api/serializers.py" />
         <option value="$PROJECT_DIR$/comentarios/api/viewsets.py" />
         <option value="$PROJECT_DIR$/atracoes/api/viewsets.py" />
-        <option value="$PROJECT_DIR$/pontos_turisticos/urls.py" />
         <option value="$PROJECT_DIR$/comentarios/api/serializers.py" />
+        <option value="$PROJECT_DIR$/avaliacoes/api/viewsets.py" />
+        <option value="$PROJECT_DIR$/pontos_turisticos/urls.py" />
+        <option value="$PROJECT_DIR$/avaliacoes/api/serializers.py" />
       </list>
     </option>
   </component>
@@ -270,12 +263,23 @@
             <path>
               <item name="pontos_turisticos" type="b2602c69:ProjectViewProjectNode" />
               <item name="pontos_turisticos" type="462c0819:PsiDirectoryNode" />
-              <item name="comentarios" type="462c0819:PsiDirectoryNode" />
+              <item name="atracoes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pontos_turisticos" type="b2602c69:ProjectViewProjectNode" />
               <item name="pontos_turisticos" type="462c0819:PsiDirectoryNode" />
-              <item name="comentarios" type="462c0819:PsiDirectoryNode" />
+              <item name="atracoes" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pontos_turisticos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pontos_turisticos" type="462c0819:PsiDirectoryNode" />
+              <item name="avaliacoes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pontos_turisticos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pontos_turisticos" type="462c0819:PsiDirectoryNode" />
+              <item name="avaliacoes" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -404,15 +408,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-1032" y="-8" width="1040" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102678575" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20958084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3502455" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -508,13 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/avaliacoes/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -621,10 +618,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/comentarios/api/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1542132792852" expanded="true" signature="176:181" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comentarios/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+            <marker date="1542133351577" expanded="true" signature="143:148" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avaliacoes/api/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1542133847457" expanded="true" signature="172:177" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/comentarios/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-end-line="9" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
             <marker date="1541792350679" expanded="true" signature="106:111" ph="..." />
@@ -632,20 +662,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pontos_turisticos/urls.py">
+    <entry file="file://$PROJECT_DIR$/avaliacoes/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
-            <element signature="e#641#673#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="true" />
+            <marker date="1541793148020" expanded="true" signature="134:139" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/atracoes/api/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
             <marker date="1542130817545" expanded="true" signature="133:138" ph="..." />
@@ -665,24 +696,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comentarios/api/viewsets.py">
+    <entry file="file://$PROJECT_DIR$/pontos_turisticos/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="249">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <marker date="1542132792852" expanded="true" signature="176:181" ph="..." />
+            <element signature="e#641#673#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comentarios/api/serializers.py">
+    <entry file="file://$PROJECT_DIR$/avaliacoes/api/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
-            <marker date="1542133351577" expanded="true" signature="143:148" ph="..." />
+            <marker date="1542134129838" expanded="true" signature="155:160" ph="..." />
+            <marker date="1542134129838" expanded="true" signature="155:244" ph="..." />
           </folding>
         </state>
       </provider>
